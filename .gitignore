@@ -1,0 +1,14 @@
+.venv/
+venv/
+
+.idea/
+
+project/server_private_key.pem
+project/server_public_key.pem
+
+__pycache__/
+*.pyc
+*.pyo
+
+project/.env
+Після додавання файлів у .gitignore, вам потрібно видалити їх з ін
